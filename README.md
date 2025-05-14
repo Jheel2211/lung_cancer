@@ -16,4 +16,9 @@ This project focuses on building a machine learning model to predict the likelih
 - Evaluation with Accuracy, Precision, Recall, and Confusion Matrix
 - Notebook: `Lung_cancer_prediction.ipynb'
 
+## Notes
+There are three main files on the github for this project : 
+- code.py ~ Includes the main code/model for the project.
+- README.md ~ Description/introduction for the project
+- Dataset ~ includes the data of several patients, on which the model has been trained and tested. 
   
